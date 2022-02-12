@@ -310,7 +310,7 @@ class MinAgNewsParseUploads {
                           echo $this->interpret($td_content, $filename, $docType, $year, $month, $day);
                         }   
                       } else {
-                        echo '&nbsp;';
+                        echo 'NOT AVAILABLE';
                       }
                     ?>
                     </td>
