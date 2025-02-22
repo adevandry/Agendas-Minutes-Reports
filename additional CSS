@@ -1,4 +1,4 @@
 // Add the following CSS to your theme file, style.css, to display documents from the same month on separate lines.
-
+//
 table.minagnews_tbl th { text-align: left; }
 table.minagnews_tbl td a { display: block; }
